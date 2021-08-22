@@ -1,6 +1,8 @@
 # govhack-2021-coolio-agito
 Govhack 2021 submission - Team coolio - Project Agito
 
+![Logo](logo.png)
+
 Agito app is an Android (and future iOS) App that empowers you to make a more informed decision on whether it’s a WFO or WFH day in the new COVID normal world. By using open APIs to showcase COVID-19 data, exposure sites, weather updates and crowd density data, Agito helps you decide the best mode of transport and route to take to get to your workplace safely. The office management system allows you to book a desk, meeting room or car park at your workplace to support COVID safety.
 
 We used data sets from the Victorian government including Victorian coronavirus data, PTV metro routes and stations, bluetooth travel API and traffic signal volume.
@@ -41,3 +43,12 @@ The Agito app also collects data about workers’ new COVID normal behaviour, mo
 * Primary concerns of users for choosing a specific mode of transport (weather/ covid/ cost/ time, etc)
 * Parking spaces for each participating company (closed)
 * Desk spaces for each participating company (closed)
+
+
+# Prototypes 
+
+![Home](home.png)
+
+![Flow](flow.png)
+
+![Navbar](nav.png)
