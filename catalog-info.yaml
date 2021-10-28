@@ -8,3 +8,7 @@ metadata:
     - url: https://github.com/jaswanthm/govhack-2021-coolio-agito
       title: GitHub Repo
       icon: github
+spec:
+  type: service
+  lifecycle: experimental
+  owner: team-a
