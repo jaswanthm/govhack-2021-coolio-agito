@@ -5,7 +5,7 @@ metadata:
   # This is an extra long description
   description: agito
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/jaswanthm/govhack-2021-coolio-agito/blob/master
+    backstage.io/techdocs-ref: url:https://github.com/jaswanthm/govhack-2021-coolio-agito/tree/master
   links:
     - url: https://github.com/jaswanthm/govhack-2021-coolio-agito
       title: GitHub Repo
